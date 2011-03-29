@@ -1,0 +1,1536 @@
+(dp0
+VPsion
+p1
+(dp2
+VImplements
+p3
+(lp4
+VOrbs, Staffs
+p5
+asVPower Source
+p6
+(lp7
+VPsionic. You direct psionic energy from within your own mind, focusing that power through meditation and contemplation. Your magic works on the minds of others or manifests your will as a physical force in the world.
+p8
+asVWeapon Proficiencies
+p9
+(lp10
+VSimple melee, simple ranged
+p11
+asVKey Abilities
+p12
+(lp13
+VIntelligence, Charisma, Wisdom
+p14
+asVHit Points per Level Gained
+p15
+(lp16
+V4
+p17
+asVHealing Surges
+p18
+(lp19
+V6+ Constitution Modifier
+p20
+asVTrained Skills
+p21
+(lp22
+VFrom the class skills list below, choose 4 trained skills at 1st level.
+p23
+asVBonus to Defense
+p24
+(lp25
+V+2 Will
+p26
+asVRole
+p27
+(lp28
+VController. You can mentally influence the actions of your foes, and you can toss your enemies around the battlefield with psionic force.
+p29
+asVHit Points at 1st Level
+p30
+(lp31
+V12+ Constitution Score
+p32
+asVArmor Proficiencies
+p33
+(lp34
+VCloth
+p35
+asVClass Skills
+p36
+(lp37
+VArcana (Int), Bluff (Cha), Diplomacy (Cha), Dungeoneering (Wis), History (Int), Insight (Wis), Intimidate (Cha), Perception (Wis)
+p38
+assVWizard
+p39
+(dp40
+VImplements
+p41
+(lp42
+VOrbs, staffs, wands, tomes
+p43
+asVPower Source
+p44
+(lp45
+VArcane. You channel arcane forces through extensive study, hidden knowledge, and intricate preparation. To you, magic is an art form, an expressive and powerful method by which you seek to control the world around you.
+p46
+asVWeapon Proficiencies
+p47
+(lp48
+VDagger, quarterstaff
+p49
+asVKey Abilities
+p50
+(lp51
+VIntelligence, Wisdom, Dexterity
+p52
+asVHit Points per Level Gained
+p53
+(lp54
+g17
+asVHealing Surges
+p55
+(lp56
+V6+ Constitution Modifier
+p57
+asVTrained Skills
+p58
+(lp59
+VArcana. From the class skills list below, choose 3 more trained skills at 1st level.
+p60
+asVBonus to Defense
+p61
+(lp62
+V+2 Will
+p63
+asVRole
+p64
+(lp65
+VController. You exert control through magical effects that cover large areas\u2014sometimes hindering foes, sometimes consuming them with fire.
+p66
+asVHit Points at 1st Level
+p67
+(lp68
+V10+ Constitution Score
+p69
+asVArmor Proficiencies
+p70
+(lp71
+VCloth
+p72
+asVClass Skills
+p73
+(lp74
+VArcana (Int), Diplomacy (Cha), Dungeoneering (Wis), History (Int), Insight (Wis), Nature (Wis), Religion (Int)
+p75
+assVRunepriest
+p76
+(dp77
+VImplements
+p78
+(lp79
+sVPower Source
+p80
+(lp81
+VDivine. You are a master of divine runes, a powerful alphabet that formed the basis of the gods' power. Other runic structures exist, but you have mastered the runes of the gods.
+p82
+asVWeapon Proficiencies
+p83
+(lp84
+VSimple melee, simple ranged
+p85
+asVKey Abilities
+p86
+(lp87
+VStrength, Constitution, Wisdom
+p88
+asVHit Points per Level Gained
+p89
+(lp90
+V5
+p91
+asVHealing Surges
+p92
+(lp93
+V7+ Constitution Modifier
+p94
+asVTrained Skills
+p95
+(lp96
+VReligion. From the class skills list below, choose 3 more trained skills at 1st level.
+p97
+asVBonus to Defense
+p98
+(lp99
+V+2 Will
+p100
+asVRole
+p101
+(lp102
+VLeader. The runes you invoke allow you to impart strength and vitality to your allies while leaving your enemies open to attack. Depending on your choice of class features and powers, you might lean toward either defender or controller as a secondary role.
+p103
+asVHit Points at 1st Level
+p104
+(lp105
+V12+ Constitution Score
+p106
+asVArmor Proficiencies
+p107
+(lp108
+VCloth, leather, hide, chainmail, scale; light shields
+p109
+asVClass Skills
+p110
+(lp111
+VArcana (Int), Athletics (Str), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Religion (Int), Thievery (Dex)
+p112
+assVBattlemind
+p113
+(dp114
+VImplements
+p115
+(lp116
+sVPower Source
+p117
+(lp118
+VPsionic. You are a psionic warrior, a weapon master who combines physical might and a cunning intellect.
+p119
+asVWeapon Proficiencies
+p120
+(lp121
+VSimple melee, military melee, simple ranged
+p122
+asVKey Abilities
+p123
+(lp124
+VConstitution, Wisdom, Charisma
+p125
+asVHit Points per Level Gained
+p126
+(lp127
+V6
+p128
+asVHealing Surges
+p129
+(lp130
+V9+ Constitution Modifier
+p131
+asVTrained Skills
+p132
+(lp133
+VFrom the class skills list below, choose 3 trained skills at 1st level.
+p134
+asVBonus to Defense
+p135
+(lp136
+V+2 Will
+p137
+asVRole
+p138
+(lp139
+VDefender. You are tough and fast, while your mastery of psionic magic allows you to outwit your foes. Depending on your choice of class features and powers, you lean toward either controller or striker as a secondary role.
+p140
+asVHit Points at 1st Level
+p141
+(lp142
+V15+ Constitution Score
+p143
+asVArmor Proficiencies
+p144
+(lp145
+VCloth, leather, hide, chainmail, scale; heavy shields, light shields
+p146
+asVClass Skills
+p147
+(lp148
+VArcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha)
+p149
+assVSeeker
+p150
+(dp151
+VImplements
+p152
+(lp153
+sVPower Source
+p154
+(lp155
+VPrimal. Through ancient ceremonies and whispered evocations, you call on primal spirits to lend their might to your cause.
+p156
+asVWeapon Proficiencies
+p157
+(lp158
+VSimple melee, simple ranged, military ranged
+p159
+asVKey Abilities
+p160
+(lp161
+VWisdom, Strength, Dexterity
+p162
+asVHit Points per Level Gained
+p163
+(lp164
+g91
+asVHealing Surges
+p165
+(lp166
+V7+ Constitution Modifier
+p167
+asVTrained Skills
+p168
+(lp169
+VNature. From the class skills list below, choose 3 more trained skills at 1st level.
+p170
+asVBonus to Defense
+p171
+(lp172
+V+1 Reflex, +1 Will
+p173
+asVRole
+p174
+(lp175
+VController. You are a primal hunter who forges bonds with mysterious spirits to gain their aid in bringing down your prey. Depending on your choice of class features, you lean toward either defender or striker as a secondary role.
+p176
+asVHit Points at 1st Level
+p177
+(lp178
+V12+ Constitution Score
+p179
+asVArmor Proficiencies
+p180
+(lp181
+VCloth, leather
+p182
+asVClass Skills
+p183
+(lp184
+VAcrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis), Stealth (Dex)
+p185
+assVInvoker
+p186
+(dp187
+VImplements
+p188
+(lp189
+VRods, staffs
+p190
+asVPower Source
+p191
+(lp192
+VDivine. You practice an ancient form of divine magic, wielding the power that the gods themselves used in their battle against the primordials.
+p193
+asVWeapon Proficiencies
+p194
+(lp195
+VSimple melee, simple ranged
+p196
+asVKey Abilities
+p197
+(lp198
+VWisdom, Constitution, Intelligence
+p199
+asVHit Points per Level Gained
+p200
+(lp201
+g17
+asVHealing Surges
+p202
+(lp203
+V6+ Constitution Modifier
+p204
+asVTrained Skills
+p205
+(lp206
+VReligion. From the class skills list below, choose 3 more trained skills at 1st level.
+p207
+asVBonus to Defense
+p208
+(lp209
+V+1 Fortitude, +1 Reflex, +1 Will
+p210
+asVRole
+p211
+(lp212
+VController. You invoke the power of a god to blast your foes from a distance, leave them unable to defend themselves, and scatter them to the four winds. Depending on your choice of class features and powers, you lean toward either leader or striker as a secondary role.
+p213
+asVHit Points at 1st Level
+p214
+(lp215
+V10+ Constitution Score
+p216
+asVArmor Proficiencies
+p217
+(lp218
+VCloth, leather, hide, chainmail
+p219
+asVClass Skills
+p220
+(lp221
+VArcana (Int), Diplomacy (Cha), Endurance (Con), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int)
+p222
+assVSorcerer
+p223
+(dp224
+VImplements
+p225
+(lp226
+VDaggers, staffs
+p227
+asVPower Source
+p228
+(lp229
+VArcane. Arcane magic is in your blood, as a touch of either ancient draconic power or untamed chaos energy, and you unleash it through sheer force of will and physical discipline.
+p230
+asVWeapon Proficiencies
+p231
+(lp232
+VSimple melee, simple ranged
+p233
+asVKey Abilities
+p234
+(lp235
+VCharisma, Dexterity, Strength
+p236
+asVHit Points per Level Gained
+p237
+(lp238
+g91
+asVHealing Surges
+p239
+(lp240
+V6+ Constitution Modifier
+p241
+asVTrained Skills
+p242
+(lp243
+VArcana. From the class skills list below, choose 3 more trained skills at 1st level.
+p244
+asVBonus to Defense
+p245
+(lp246
+V+2 Will
+p247
+asVRole
+p248
+(lp249
+VStriker. You channel powerful magical energy through your body, exerting control over wild arcane magic to blast foes. You lean toward controller as a secondary role.
+p250
+asVHit Points at 1st Level
+p251
+(lp252
+V12+ Constitution Score
+p253
+asVArmor Proficiencies
+p254
+(lp255
+VCloth
+p256
+asVClass Skills
+p257
+(lp258
+VArcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Dungeoneering (Wis), Endurance (Con), History (Int), Insight (Wis), Intimidate (Cha), Nature (Wis)
+p259
+assVWarlock
+p260
+(dp261
+VImplements
+p262
+(lp263
+VRods, wands
+p264
+asVPower Source
+p265
+(lp266
+VArcane. You gain your magical power from a pact you forge with a powerful, supernatural force or an unnamed entity.
+p267
+asVWeapon Proficiencies
+p268
+(lp269
+VSimple melee, simple ranged
+p270
+asVKey Abilities
+p271
+(lp272
+VCharisma, Constitution, Intelligence
+p273
+asVHit Points per Level Gained
+p274
+(lp275
+g91
+asVHealing Surges
+p276
+(lp277
+V6+ Constitution Modifier
+p278
+asVTrained Skills
+p279
+(lp280
+VFrom the class skills list below, choose 4 trained skills at 1st level.
+p281
+asVBonus to Defense
+p282
+(lp283
+V+1 Reflex, +1 Will
+p284
+asVRole
+p285
+(lp286
+VStriker. Your attack powers are highly damaging and often weaken or hamper the target in some way. You can elude attacks by flying, teleporting, or turning invisible.
+p287
+asVHit Points at 1st Level
+p288
+(lp289
+V12+ Constitution Score
+p290
+asVArmor Proficiencies
+p291
+(lp292
+VCloth, leather
+p293
+asVClass Skills
+p294
+(lp295
+VArcana (Int), Bluff (Cha), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int), Streetwise (Cha), Thievery (Dex)
+p296
+assVCleric
+p297
+(dp298
+VImplements
+p299
+(lp300
+VHoly Symbol
+p301
+asVPower Source
+p302
+(lp303
+VDivine. You have been invested with the authority to wield divine power on behalf of a deity, faith, or philosophy.
+p304
+asVWeapon Proficiencies
+p305
+(lp306
+VSimple melee, simple ranged
+p307
+asVKey Abilities
+p308
+(lp309
+VWisdom, Strength, Charisma
+p310
+asVHit Points per Level Gained
+p311
+(lp312
+g91
+asVHealing Surges
+p313
+(lp314
+V7+ Constitution Modifier
+p315
+asVTrained Skills
+p316
+(lp317
+VReligion. From the class skills list below, choose 3 more trained skills at 1st level.
+p318
+asVBonus to Defense
+p319
+(lp320
+V+2 Will
+p321
+asVRole
+p322
+(lp323
+VLeader. You lead by shielding allies with your prayers, healing, and using powers that improve your allies' attacks.
+p324
+asVHit Points at 1st Level
+p325
+(lp326
+V12+ Constitution Score
+p327
+asVArmor Proficiencies
+p328
+(lp329
+VCloth, leather, hide, chainmail
+p330
+asVClass Skills
+p331
+(lp332
+VArcana (Int), Diplomacy (Cha), Heal (Wis), History (Int), Insight (Wis), Religion (Int)
+p333
+assVDruid
+p334
+(dp335
+VImplements
+p336
+(lp337
+VStaff, Totem
+p338
+asVPower Source
+p339
+(lp340
+VPrimal. You have gained your powers through a careful study of and communion with the natural world.
+p341
+asVWeapon Proficiencies
+p342
+(lp343
+VSimple melee, simple ranged
+p344
+asVKey Abilities
+p345
+(lp346
+VWisdom, Dexterity, Constitution
+p347
+asVHit Points per Level Gained
+p348
+(lp349
+g91
+asVHealing Surges
+p350
+(lp351
+V7+ Constitution Modifier
+p352
+asVTrained Skills
+p353
+(lp354
+VNature. From the class skills list below, choose 3 more trained skills at 1st level.
+p355
+asVBonus to Defense
+p356
+(lp357
+V+1 Reflex, +1 Will
+p358
+asVRole
+p359
+(lp360
+VController. Your beast form gives you access to powers that provide control at close range, while your humanoid form allows you to hinder your opponents from a distance. Depending on your choice of class features and powers, you might lean toward either leader or striker as a secondary role.
+p361
+asVHit Points at 1st Level
+p362
+(lp363
+V12+ Constitution Score
+p364
+asVArmor Proficiencies
+p365
+(lp366
+VCloth, leather, hide
+p367
+asVClass Skills
+p368
+(lp369
+VArcana (Int), Athletics (Str), Diplomacy (Cha), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Nature (Wis), Perception (Wis)
+p370
+assVRanger
+p371
+(dp372
+VImplements
+p373
+(lp374
+sVPower Source
+p375
+(lp376
+VMartial. Your talents depend on extensive training and practice, inner confidence, and natural proficiency.
+p377
+asVWeapon Proficiencies
+p378
+(lp379
+VSimple melee, military melee, simple ranged, military ranged
+p380
+asVKey Abilities
+p381
+(lp382
+VStrength, Dexterity, Wisdom
+p383
+asVHit Points per Level Gained
+p384
+(lp385
+g91
+asVHealing Surges
+p386
+(lp387
+V6+ Constitution Modifier
+p388
+asVTrained Skills
+p389
+(lp390
+VDungeoneering or Nature (your choice). From the class skills list below, choose 4 more trained skills at 1st level.
+p391
+asVBonus to Defense
+p392
+(lp393
+V+1 Fortitude, +1 Reflex
+p394
+asVRole
+p395
+(lp396
+VStriker. You concentrate on either ranged attacks or two-weapon melee fighting to deal a lot of damage to one enemy at a time. Your attacks rely on speed and mobility, since you prefer to use hit-and-run tactics whenever possible.
+p397
+asVHit Points at 1st Level
+p398
+(lp399
+V12+ Constitution Score
+p400
+asVArmor Proficiencies
+p401
+(lp402
+VCloth, leather, hide
+p403
+asVClass Skills
+p404
+(lp405
+VAcrobatics (Dex), Athletics (Str), Dungeoneering (Wis), Endurance (Con), Heal (Wis), Nature (Wis), Perception (Wis), Stealth (Dex)
+p406
+assVRogue
+p407
+(dp408
+VImplements
+p409
+(lp410
+sVPower Source
+p411
+(lp412
+VMartial. Your talents depend on extensive training and constant practice, innate skill, and natural coordination.
+p413
+asVWeapon Proficiencies
+p414
+(lp415
+VDagger, hand crossbow, short sword, shuriken, sling
+p416
+asVKey Abilities
+p417
+(lp418
+VDexterity, Strength, Charisma
+p419
+asVHit Points per Level Gained
+p420
+(lp421
+g91
+asVHealing Surges
+p422
+(lp423
+V6+ Constitution Modifier
+p424
+asVTrained Skills
+p425
+(lp426
+VStealth, Thievery. From the class skills list below, choose 4 more trained skills at 1st level.
+p427
+asVBonus to Defense
+p428
+(lp429
+V+2 Reflex
+p430
+asVRole
+p431
+(lp432
+VStriker. You dart in to attack, do massive damage, and then retreat to safety. You do best when teamed with a defender to flank enemies.
+p433
+asVHit Points at 1st Level
+p434
+(lp435
+V12+ Constitution Score
+p436
+asVArmor Proficiencies
+p437
+(lp438
+VCloth, leather
+p439
+asVClass Skills
+p440
+(lp441
+VAcrobatics (Dex), Athletics (Str), Bluff (Cha), Dungeoneering (Wis), Insight (Wis), Intimidate (Cha), Perception (Wis), Stealth (Dex), Streetwise (Cha), Thievery (Dex)
+p442
+assVWarden
+p443
+(dp444
+VImplements
+p445
+(lp446
+sVPower Source
+p447
+(lp448
+VPrimal. You are a primal champion, a guardian of the natural world and custodian of all living things.
+p449
+asVWeapon Proficiencies
+p450
+(lp451
+VSimple melee, military melee, simple ranged
+p452
+asVKey Abilities
+p453
+(lp454
+VStrength, Constitution, Wisdom
+p455
+asVHit Points per Level Gained
+p456
+(lp457
+V7
+p458
+asVHealing Surges
+p459
+(lp460
+V9+ Constitution Modifier
+p461
+asVTrained Skills
+p462
+(lp463
+VNature. From the class skills list below, choose 3 more trained skills at 1st level.
+p464
+asVBonus to Defense
+p465
+(lp466
+V+1 Fortitude, +1 Will
+p467
+asVRole
+p468
+(lp469
+VDefender. You are sturdy and resilient, and you can assume bestial or treelike forms to destroy your foes. Depending on your choice of class features and powers, you lean toward either controller or striker as a secondary role.
+p470
+asVHit Points at 1st Level
+p471
+(lp472
+V17+ Constitution Score
+p473
+asVArmor Proficiencies
+p474
+(lp475
+VCloth, leather, hide; heavy shields, light shields
+p476
+asVClass Skills
+p477
+(lp478
+VAthletics (Str), Dungeoneering (Wis), Endurance (Con), Heal (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis)
+p479
+assVShaman
+p480
+(dp481
+VImplements
+p482
+(lp483
+VTotems
+p484
+asVPower Source
+p485
+(lp486
+VPrimal. The spirits of the natural world give you power and manifest on your behalf.
+p487
+asVWeapon Proficiencies
+p488
+(lp489
+VSimple melee, longspear
+p490
+asVKey Abilities
+p491
+(lp492
+VWisdom, Constitution, Intelligence
+p493
+asVHit Points per Level Gained
+p494
+(lp495
+g91
+asVHealing Surges
+p496
+(lp497
+V7+ Constitution Modifier
+p498
+asVTrained Skills
+p499
+(lp500
+VNature. From the class skills list below, choose 3 more trained skills at 1st level.
+p501
+asVBonus to Defense
+p502
+(lp503
+V+1 Fortitude, +1 Will
+p504
+asVRole
+p505
+(lp506
+VLeader. Your spirit companion bolsters and heals your nearby allies, and you can evoke other spirits to aid your allies and harm your foes. Depending on your choice of class features and powers, you lean toward either defender or striker as a secondary role.
+p507
+asVHit Points at 1st Level
+p508
+(lp509
+V12+ Constitution Score
+p510
+asVArmor Proficiencies
+p511
+(lp512
+VCloth, leather
+p513
+asVClass Skills
+p514
+(lp515
+VArcana (Int), Athletics (Str), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Nature (Wis), Perception (Wis), Religion (Int)
+p516
+assVFighter
+p517
+(dp518
+VImplements
+p519
+(lp520
+sVPower Source
+p521
+(lp522
+VMartial. You have become a master of combat through endless hours of practice, determination, and your own sheer physical toughness.
+p523
+asVWeapon Proficiencies
+p524
+(lp525
+VSimple melee, military melee, simple ranged, military ranged
+p526
+asVKey Abilities
+p527
+(lp528
+VStrength, Dexterity, Wisdom, Constitution
+p529
+asVHit Points per Level Gained
+p530
+(lp531
+g128
+asVHealing Surges
+p532
+(lp533
+V9+ Constitution Modifier
+p534
+asVTrained Skills
+p535
+(lp536
+VFrom the class skills list below, choose 3 trained skills at 1st level.
+p537
+asVBonus to Defense
+p538
+(lp539
+V+2 Fortitude
+p540
+asVRole
+p541
+(lp542
+VDefender. You are very tough and have the exceptional ability to contain enemies in melee.
+p543
+asVHit Points at 1st Level
+p544
+(lp545
+V15+ Constitution Score
+p546
+asVArmor Proficiencies
+p547
+(lp548
+VCloth, leather, hide, chainmail, scale; heavy shields, light shields
+p549
+asVClass Skills
+p550
+(lp551
+VAthletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Streetwise (Cha)
+p552
+assVAvenger
+p553
+(dp554
+VImplements
+p555
+(lp556
+VHoly Symbol
+p557
+asVPower Source
+p558
+(lp559
+VDivine. You practice mysteries forgotten or forbidden by most religious orders, yet the power you wield is a gift from your god.
+p560
+asVWeapon Proficiencies
+p561
+(lp562
+VSimple melee, military melee, simple ranged
+p563
+asVKey Abilities
+p564
+(lp565
+VWisdom, Dexterity, Intelligence
+p566
+asVHit Points per Level Gained
+p567
+(lp568
+g128
+asVHealing Surges
+p569
+(lp570
+V7+ Constitution Modifier
+p571
+asVTrained Skills
+p572
+(lp573
+VReligion. From the class skills list below, choose 3 more trained skills at 1st level.
+p574
+asVBonus to Defense
+p575
+(lp576
+V+1 Fortitude, +1 Reflex, +1 Will
+p577
+asVRole
+p578
+(lp579
+VStriker. Your oaths bring divine wrath upon the enemies of your god. With methodical devastation, you eliminate one foe at a time. You lean toward controller as a secondary role.
+p580
+asVHit Points at 1st Level
+p581
+(lp582
+V14+ Constitution Score
+p583
+asVArmor Proficiencies
+p584
+(lp585
+VCloth
+p586
+asVClass Skills
+p587
+(lp588
+VAcrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Perception (Wis), Religion (Int), Stealth (Dex), Streetwise (Cha)
+p589
+assVArtificer
+p590
+(dp591
+VImplements
+p592
+(lp593
+VRods, staffs, wands
+p594
+asVPower Source
+p595
+(lp596
+VArcane. The cryptic formulas of arcane magic and the complex recipes of alchemy appeal to you. You are especially knowledgeable about magic items.
+p597
+asVWeapon Proficiencies
+p598
+(lp599
+VSimple melee, simple ranged
+p600
+asVKey Abilities
+p601
+(lp602
+VIntelligence, Constitution, Wisdom
+p603
+asVHit Points per Level Gained
+p604
+(lp605
+g91
+asVHealing Surges
+p606
+(lp607
+V6+ Constitution Modifier
+p608
+asVTrained Skills
+p609
+(lp610
+VArcana. From the class skills list below, choose 4 more trained skills at 1st level.
+p611
+asVBonus to Defense
+p612
+(lp613
+V+1 Fortitude, +1 Will
+p614
+asVRole
+p615
+(lp616
+VLeader. You channel arcane power into items that empower your allies and hinder your enemies. You lean toward controller as a secondary role.
+p617
+asVHit Points at 1st Level
+p618
+(lp619
+V12+ Constitution Score
+p620
+asVArmor Proficiencies
+p621
+(lp622
+VCloth, leather
+p623
+asVClass Skills
+p624
+(lp625
+VArcana (Int), Diplomacy (Cha), Dungeoneering (Wis), Heal (Wis), History (Int), Perception (Wis), Thievery (Dex)
+p626
+assVPaladin
+p627
+(dp628
+VImplements
+p629
+(lp630
+VHoly Symbol
+p631
+asVPower Source
+p632
+(lp633
+VDivine. You are a divine warrior, a crusader and protector of your faith.
+p634
+asVWeapon Proficiencies
+p635
+(lp636
+VSimple melee, military melee, simple ranged
+p637
+asVKey Abilities
+p638
+(lp639
+VStrength, Charisma, Wisdom
+p640
+asVHit Points per Level Gained
+p641
+(lp642
+g128
+asVHealing Surges
+p643
+(lp644
+V10+ Constitution Modifier
+p645
+asVTrained Skills
+p646
+(lp647
+VReligion. From the class skills list below, choose 3 more trained skills at 1st level.
+p648
+asVBonus to Defense
+p649
+(lp650
+V+1 Fortitude, +1 Reflex, +1 Will
+p651
+asVRole
+p652
+(lp653
+VDefender. You are extremely durable, with high hit points and the ability to wear the heaviest armor. You can issue bold challenges to foes and compel them to fight you rather than your allies.
+p654
+asVHit Points at 1st Level
+p655
+(lp656
+V15+ Constitution Score
+p657
+asVArmor Proficiencies
+p658
+(lp659
+VCloth, leather, hide, chainmail, scale, plate; heavy shields, light shields
+p660
+asVClass Skills
+p661
+(lp662
+VDiplomacy (Cha), Endurance (Con), Heal (Wis), History (Int), Insight (Wis), Intimidate (Cha), Religion (Int)
+p663
+assVMonk
+p664
+(dp665
+VImplements
+p666
+(lp667
+VKi focuses, weapons with which you're proficient
+p668
+asVPower Source
+p669
+(lp670
+VPsionic. Your intense focus, constant training, and exceptional talent combine to allow you to harness the psionic power within yourself.
+p671
+asVWeapon Proficiencies
+p672
+(lp673
+VClub, dagger, monk unarmed strike, quarterstaff, shuriken, sling, spear
+p674
+asVKey Abilities
+p675
+(lp676
+VDexterity, Strength, Wisdom
+p677
+asVHit Points per Level Gained
+p678
+(lp679
+g91
+asVHealing Surges
+p680
+(lp681
+V7+ Constitution Modifier
+p682
+asVTrained Skills
+p683
+(lp684
+VFrom the class skills list below, choose 4 trained skills at 1st level.
+p685
+asVBonus to Defense
+p686
+(lp687
+V+1 Fortitude, +1 Reflex, +1 Will
+p688
+asVRole
+p689
+(lp690
+VStriker. You typically eschew weapons in favor of unarmed attacks, and you avoid armor in favor of maneuverability and agility. Few can match your speed and poise on the battlefield. Your powers are more than simple attacks; they are complex forms that allow you to strike and move with unmatched grace. You lean toward controller as a secondary role.
+p691
+asVHit Points at 1st Level
+p692
+(lp693
+V12+ Constitution Score
+p694
+asVArmor Proficiencies
+p695
+(lp696
+VCloth
+p697
+asVClass Skills
+p698
+(lp699
+VAcrobatics (Dex), Athletics (Str), Diplomacy (Cha), Endurance (Con), Heal (Wis), Insight (Wis), Perception (Wis), Religion (Int), Stealth (Dex), Thievery (Dex)
+p700
+assVAssassin
+p701
+(dp702
+VImplements
+p703
+(lp704
+VKi focuses, weapons with which you have proficiency
+p705
+asVPower Source
+p706
+(lp707
+VShadow. You have bound your soul to the Shadowfell and become a being of darkness.
+p708
+asVWeapon Proficiencies
+p709
+(lp710
+VSimple one-handed melee, simple ranged, military heavy blade, military light blade
+p711
+asVKey Abilities
+p712
+(lp713
+VDexterity, Charisma, Constitution
+p714
+asVHit Points per Level Gained
+p715
+(lp716
+g17
+asVHealing Surges
+p717
+(lp718
+V6+ Constitution Modifier
+p719
+asVTrained Skills
+p720
+(lp721
+VStealth. From the class skills list below, choose four more trained skills at 1st level.
+p722
+asVBonus to Defense
+p723
+(lp724
+V+1 Fortitude, +1 Will
+p725
+asVRole
+p726
+(lp727
+VStriker. You are the ghost in the night and the whisper on the wind. Barriers are worthless against you, and you strike your foes with sudden, precise force. You lean toward controller as a secondary role.
+p728
+asVHit Points at 1st Level
+p729
+(lp730
+V10+ Constitution Score
+p731
+asVArmor Proficiencies
+p732
+(lp733
+VCloth, leather; light shields
+p734
+asVClass Skills
+p735
+(lp736
+VAcrobatics (Dex), Arcana (Int), Athletics (Str), Bluff (Cha), Endurance (Con), Insight (Wis), Perception (Wis), Stealth (Dex), Streetwise (Cha), Thievery (Dex)
+p737
+assVWarlord
+p738
+(dp739
+VImplements
+p740
+(lp741
+sVPower Source
+p742
+(lp743
+VMartial. You have become an expert in tactics through endless hours of training and practice, personal determination, and your own sheer physical toughness.
+p744
+asVWeapon Proficiencies
+p745
+(lp746
+VSimple melee, military melee, simple ranged
+p747
+asVKey Abilities
+p748
+(lp749
+VStrength, Intelligence, Charisma
+p750
+asVHit Points per Level Gained
+p751
+(lp752
+g91
+asVHealing Surges
+p753
+(lp754
+V7+ Constitution Modifier
+p755
+asVTrained Skills
+p756
+(lp757
+VFrom the class skills list below, choose 4 trained skills at 1st level.
+p758
+asVBonus to Defense
+p759
+(lp760
+V+1 Fortitude, +1 Will
+p761
+asVRole
+p762
+(lp763
+VLeader. You are an inspiring commander and a master of battle tactics.
+p764
+asVHit Points at 1st Level
+p765
+(lp766
+V12+ Constitution Score
+p767
+asVArmor Proficiencies
+p768
+(lp769
+VCloth, leather, hide, chainmail; light shields
+p770
+asVClass Skills
+p771
+(lp772
+VAthletics (Str), Diplomacy (Cha), Endurance (Con), Heal (Wis), History (Int), Intimidate (Cha)
+p773
+assVBarbarian
+p774
+(dp775
+VImplements
+p776
+(lp777
+sVPower Source
+p778
+(lp779
+VPrimal. You are a primal champion, a warrior devoted to the natural world and an embodiment of your tribe's fierce traditions.
+p780
+asVWeapon Proficiencies
+p781
+(lp782
+VSimple melee, military melee
+p783
+asVKey Abilities
+p784
+(lp785
+VStrength, Constitution, Charisma
+p786
+asVHit Points per Level Gained
+p787
+(lp788
+g128
+asVHealing Surges
+p789
+(lp790
+V8+ Constitution Modifier
+p791
+asVTrained Skills
+p792
+(lp793
+VFrom the class skills list below, choose 3 trained skills at 1st level.
+p794
+asVBonus to Defense
+p795
+(lp796
+V+2 Fortitude
+p797
+asVRole
+p798
+(lp799
+VStriker. You use powerful two-handed weapons to deal serious damage to your enemies. Your physical power and daunting presence can cause foes to cower before you, and you can temporarily increase your abilities by harnessing great bursts of terrifying rage. Depending on your choice of class features and powers, you lean toward either defender or leader as a secondary role.
+p800
+asVHit Points at 1st Level
+p801
+(lp802
+V15+ Constitution Score
+p803
+asVArmor Proficiencies
+p804
+(lp805
+VCloth, leather, hide
+p806
+asVClass Skills
+p807
+(lp808
+VAcrobatics (Dex), Athletics (Str), Endurance (Con), Heal (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis)
+p809
+assVBard
+p810
+(dp811
+VImplements
+p812
+(lp813
+VWand
+p814
+asVPower Source
+p815
+(lp816
+VArcane. You channel magical power through words and music, studying long and hard to master the power contained in the lore and sagas of old.
+p817
+asVWeapon Proficiencies
+p818
+(lp819
+VSimple melee, simple ranged, military ranged, longsword, scimitar, short sword
+p820
+asVKey Abilities
+p821
+(lp822
+VCharisma, Intelligence, Constitution
+p823
+asVHit Points per Level Gained
+p824
+(lp825
+g91
+asVHealing Surges
+p826
+(lp827
+V7+ Constitution Modifier
+p828
+asVTrained Skills
+p829
+(lp830
+VArcana. From the class skills list below, choose 4 more trained skills at 1st level.
+p831
+asVBonus to Defense
+p832
+(lp833
+V+1 Reflex, +1 Will
+p834
+asVRole
+p835
+(lp836
+VLeader. Your spells inspire and invigorate your allies. Your spells also include significant control elements, making controller a natural secondary role.
+p837
+asVHit Points at 1st Level
+p838
+(lp839
+V12+ Constitution Score
+p840
+asVArmor Proficiencies
+p841
+(lp842
+VCloth, leather, hide, chainmail; light shields
+p843
+asVClass Skills
+p844
+(lp845
+VAcrobatics (Dex), Arcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Dungeoneering (Wis), Heal (Wis), History (Int), Insight (Wis), Intimidate (Cha), Nature (Wis), Perception (Wis), Religion (Int), Streetwise (Cha)
+p846
+assVArdent
+p847
+(dp848
+VImplements
+p849
+(lp850
+sVPower Source
+p851
+(lp852
+VPsionic. You are a spiritual warrior whose thoughts swirl about you to infect your enemies with doubt and fill your allies with confidence.
+p853
+asVWeapon Proficiencies
+p854
+(lp855
+VSimple melee, military melee, simple ranged
+p856
+asVKey Abilities
+p857
+(lp858
+VCharisma, Constitution, Wisdom
+p859
+asVHit Points per Level Gained
+p860
+(lp861
+g91
+asVHealing Surges
+p862
+(lp863
+V7+ Constitution Modifier
+p864
+asVTrained Skills
+p865
+(lp866
+VFrom the class skills list below, choose 4 trained skills at 1st level.
+p867
+asVBonus to Defense
+p868
+(lp869
+V+1 Fortitude, +1 Will
+p870
+asVRole
+p871
+(lp872
+VLeader. You fill your allies with the will to fight and the clarity of purpose needed for victory. When you attack, you loose thoughts that intensify emotions and lay bare truths. Depending on your choice of class features, you lean toward either defender or striker as a secondary role.
+p873
+asVHit Points at 1st Level
+p874
+(lp875
+V12+ Constitution Score
+p876
+asVArmor Proficiencies
+p877
+(lp878
+VCloth, leather, hide, chainmail
+p879
+asVClass Skills
+p880
+(lp881
+VArcana (Int), Athletics (Str), Bluff (Cha), Diplomacy (Cha), Endurance (Con), Heal (Wis), Insight (Wis), Intimidate (Cha), Streetwise (Cha)
+p882
+assVSwordmage
+p883
+(dp884
+VImplements
+p885
+(lp886
+VAny light blade or heavy blade
+p887
+asVPower Source
+p888
+(lp889
+VArcane. You study ancient magical traditions and practice swordplay, developing arcane powers that work well with your physical attacks.
+p890
+asVWeapon Proficiencies
+p891
+(lp892
+VSimple melee, simple ranged, military light blade, military heavy blade
+p893
+asVKey Abilities
+p894
+(lp895
+VIntelligence, Strength, Constitution
+p896
+asVHit Points per Level Gained
+p897
+(lp898
+g128
+asVHealing Surges
+p899
+(lp900
+V8+ Constitution Modifier
+p901
+asVTrained Skills
+p902
+(lp903
+VArcana. From the class skills list below, choose 3 more trained skills at 1st level.
+p904
+asVBonus to Defense
+p905
+(lp906
+V+2 Will
+p907
+asVRole
+p908
+(lp909
+VDefender. You are a melee combatant who uses spells to fight better.
+p910
+asVHit Points at 1st Level
+p911
+(lp912
+V15+ Constitution Score
+p913
+asVArmor Proficiencies
+p914
+(lp915
+VCloth, leather
+p916
+asVClass Skills
+p917
+(lp918
+VArcana (Int), Athletics (Str), Diplomacy (Cha), Endurance (Con), History (Int), Insight (Wis), Intimidate (Cha)
+p919
+ass.

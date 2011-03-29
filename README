@@ -1,0 +1,94 @@
+This simple Character Builder uses the Pickle DB files to create
+a dynamic Character Builder:
+
+$ Ghetto_Chara_Builder
+
+      Classes              Key Ablities
+------------------------------------------------------------
+1   : Ardent               Charisma, Constitution, Wisdom
+2   : Artificer            Intelligence, Constitution, Wisdom
+3   : Assassin             Dexterity, Charisma, Constitution
+4   : Avenger              Wisdom, Dexterity, Intelligence
+5   : Barbarian            Strength, Constitution, Charisma
+6   : Bard                 Charisma, Intelligence, Constitution
+7   : Battlemind           Constitution, Wisdom, Charisma
+8   : Cleric               Wisdom, Strength, Charisma
+9   : Druid                Wisdom, Dexterity, Constitution
+10  : Fighter              Strength, Dexterity, Wisdom, Constitution
+11  : Invoker              Wisdom, Constitution, Intelligence
+12  : Monk                 Dexterity, Strength, Wisdom
+13  : Paladin              Strength, Charisma, Wisdom
+14  : Psion                Intelligence, Charisma, Wisdom
+15  : Ranger               Strength, Dexterity, Wisdom
+16  : Rogue                Dexterity, Strength, Charisma
+17  : Runepriest           Strength, Constitution, Wisdom
+18  : Seeker               Wisdom, Strength, Dexterity
+19  : Shaman               Wisdom, Constitution, Intelligence
+20  : Sorcerer             Charisma, Dexterity, Strength
+21  : Swordmage            Intelligence, Strength, Constitution
+22  : Warden               Strength, Constitution, Wisdom
+23  : Warlock              Charisma, Constitution, Intelligence
+24  : Warlord              Strength, Intelligence, Charisma
+25  : Wizard               Intelligence, Wisdom, Dexterity
+------------------------------------------------------------
+
+
+View Class: 
+
+----
+
+On each screen you are given a list of items, once you select
+one of the items you get more detail:
+
+
+
+Armor Proficiencies :
+           Cloth, leather, hide
+ 
+Bonus to Defense :
+           +1 Reflex, +1 Will
+ 
+Class Skills :
+           Arcana (Int), Athletics (Str), Diplomacy (Cha),
+           Endurance (Con), Heal (Wis), History (Int),
+           Insight (Wis), Nature (Wis), Perception (Wis)
+ 
+Healing Surges :
+           7+ Constitution Modifier
+ 
+Hit Points at 1st Level :
+           12+ Constitution Score
+ 
+Hit Points per Level Gained :
+           5
+ 
+Implements :
+           Staff, Totem
+ 
+Key Abilities :
+           Wisdom, Dexterity, Constitution
+ 
+Power Source :
+           Primal. You have gained your powers through a
+           careful study of and communion with the natural
+           world.
+ 
+Role :
+           Controller. Your beast form gives you access to
+           powers that provide control at close range, while
+           your humanoid form allows you to hinder your
+           opponents from a distance. Depending on your
+           choice of class features and powers, you might
+           lean toward either leader or striker as a
+           secondary role.
+ 
+Trained Skills :
+           Nature. From the class skills list below, choose 3
+           more trained skills at 1st level.
+ 
+Weapon Proficiencies :
+           Simple melee, simple ranged
+ 
+Pick this Class (Y/n): 
+
+---

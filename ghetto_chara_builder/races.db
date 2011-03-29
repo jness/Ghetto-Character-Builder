@@ -1,0 +1,1186 @@
+(dp0
+VWarforged
+p1
+(dp2
+VSkill Bonuses
+p3
+(lp4
+V+2 Endurance, +2 Intimidate
+p5
+asVLanguages
+p6
+(lp7
+VCommon
+p8
+asVAbility Scores
+p9
+(lp10
+V+2 Constitution, +2 Strength
+p11
+asVSpeed
+p12
+(lp13
+V6 squares
+p14
+asVVision
+p15
+(lp16
+VNormal
+p17
+asVSize
+p18
+(lp19
+VMedium
+p20
+assVHobgoblin
+p21
+(dp22
+VSkill Bonuses
+p23
+(lp24
+V+2 Athletics, +2 History
+p25
+asVLanguages
+p26
+(lp27
+VCommon, Goblin
+p28
+asVAbility Scores
+p29
+(lp30
+V+2 Charisma, +2 Constitution
+p31
+asVSpeed
+p32
+(lp33
+V6 squares
+p34
+asVVision
+p35
+(lp36
+VLow-light
+p37
+asVSize
+p38
+(lp39
+VMedium
+p40
+assVGenasi
+p41
+(dp42
+VSkill Bonuses
+p43
+(lp44
+V+2 Endurance, +2 Nature
+p45
+asVLanguages
+p46
+(lp47
+VCommon, Primordial
+p48
+asVAbility Scores
+p49
+(lp50
+V+2 Intelligence, +2 Strength
+p51
+asVSpeed
+p52
+(lp53
+V6 squares
+p54
+asVVision
+p55
+(lp56
+VNormal
+p57
+asVSize
+p58
+(lp59
+VMedium
+p60
+assVHalf-Orc
+p61
+(dp62
+VSkill Bonuses
+p63
+(lp64
+V+2 Endurance, +2 Intimidate
+p65
+asVLanguages
+p66
+(lp67
+VCommon, Giant
+p68
+asVAbility Scores
+p69
+(lp70
+V+2 Dexterity, +2 Strength
+p71
+asVSpeed
+p72
+(lp73
+V6 squares
+p74
+asVVision
+p75
+(lp76
+VLow-light
+p77
+asVSize
+p78
+(lp79
+VMedium
+p80
+assVGnoll
+p81
+(dp82
+VSkill Bonuses
+p83
+(lp84
+V+2 Intimidate, +2 Perception
+p85
+asVLanguages
+p86
+(lp87
+VAbyssal, Common
+p88
+asVAbility Scores
+p89
+(lp90
+V+2 Constitution, +2 Dexterity
+p91
+asVSpeed
+p92
+(lp93
+V7 squares
+p94
+asVVision
+p95
+(lp96
+VLow-light
+p97
+asVSize
+p98
+(lp99
+VMedium
+p100
+assVElf
+p101
+(dp102
+VSkill Bonuses
+p103
+(lp104
+V+2 Nature, +2 Perception
+p105
+asVLanguages
+p106
+(lp107
+VCommon, Elven
+p108
+asVAbility Scores
+p109
+(lp110
+V+2 Dexterity, +2 Wisdom
+p111
+asVSpeed
+p112
+(lp113
+V7 squares
+p114
+asVVision
+p115
+(lp116
+VLow-light
+p117
+asVSize
+p118
+(lp119
+VMedium
+p120
+assVKalashtar
+p121
+(dp122
+VSkill Bonuses
+p123
+(lp124
+V+2 Insight, +2 to choice of one other
+p125
+asVLanguages
+p126
+(lp127
+VCommon
+p128
+asVAbility Scores
+p129
+(lp130
+V+2 Charisma, +2 Wisdom
+p131
+asVSpeed
+p132
+(lp133
+V6 squares
+p134
+asVVision
+p135
+(lp136
+VNormal
+p137
+asVSize
+p138
+(lp139
+VMedium
+p140
+assVKenku
+p141
+(dp142
+VSkill Bonuses
+p143
+(lp144
+V+2 Bluff, +2 Stealth
+p145
+asVLanguages
+p146
+(lp147
+VCommon
+p148
+asVAbility Scores
+p149
+(lp150
+V+2 Charisma, +2 Dexterity
+p151
+asVSpeed
+p152
+(lp153
+V6 squares
+p154
+asVVision
+p155
+(lp156
+VLow-light
+p157
+asVSize
+p158
+(lp159
+VMedium
+p160
+assVHalf-Elf
+p161
+(dp162
+VSkill Bonuses
+p163
+(lp164
+V+2 Diplomacy, +2 Insight
+p165
+asVLanguages
+p166
+(lp167
+VCommon, Elven, choice of one other
+p168
+asVAbility Scores
+p169
+(lp170
+V+2 Charisma, +2 Constitution
+p171
+asVSpeed
+p172
+(lp173
+V6 squares
+p174
+asVVision
+p175
+(lp176
+VLow-light
+p177
+asVSize
+p178
+(lp179
+VMedium
+p180
+assVDwarf
+p181
+(dp182
+VSkill Bonuses
+p183
+(lp184
+V+2 Dungeoneering, +2 Endurance
+p185
+asVLanguages
+p186
+(lp187
+VCommon, Dwarven
+p188
+asVAbility Scores
+p189
+(lp190
+V+2 Constitution, +2 Wisdom
+p191
+asVSpeed
+p192
+(lp193
+V5 squares (even when encumbered by armor or a heavy load)
+p194
+asVVision
+p195
+(lp196
+VLow-light
+p197
+asVSize
+p198
+(lp199
+VMedium
+p200
+assVDuergar
+p201
+(dp202
+VSkill Bonuses
+p203
+(lp204
+V+2 Dungeoneering
+p205
+asVLanguages
+p206
+(lp207
+VCommon, Deep Speech, Dwarven
+p208
+asVAbility Scores
+p209
+(lp210
+V+2 Constitution, +2 Wisdom
+p211
+asVSpeed
+p212
+(lp213
+V6 squares
+p214
+asVVision
+p215
+(lp216
+VDarkvision
+p217
+asVSize
+p218
+(lp219
+VMedium
+p220
+assVShardmind
+p221
+(dp222
+VSkill Bonuses
+p223
+(lp224
+V+2 Arcana, +2 Endurance, +2 to choice of one other
+p225
+asVLanguages
+p226
+(lp227
+VCommon, Deep Speech, choice of one other
+p228
+asVAbility Scores
+p229
+(lp230
+V+2 Intelligence, +2 Charisma or +2 Wisdom
+p231
+asVSpeed
+p232
+(lp233
+V6 squares
+p234
+asVVision
+p235
+(lp236
+VNormal
+p237
+asVSize
+p238
+(lp239
+VMedium
+p240
+assVRazorclaw Shifter
+p241
+(dp242
+VSkill Bonuses
+p243
+(lp244
+V+2 Acrobatics, +2 Stealth
+p245
+asVLanguages
+p246
+(lp247
+VCommon, choice of one other
+p248
+asVAbility Scores
+p249
+(lp250
+V+2 Dexterity, +2 Wisdom
+p251
+asVSpeed
+p252
+(lp253
+V6 squares
+p254
+asVVision
+p255
+(lp256
+VLow-light
+p257
+asVSize
+p258
+(lp259
+VMedium
+p260
+assVBladeling
+p261
+(dp262
+VSkill Bonuses
+p263
+(lp264
+V+2 Intimidate
+p265
+asVLanguages
+p266
+(lp267
+VCommon
+p268
+asVAbility Scores
+p269
+(lp270
+V+2 Dexterity, +2 Wisdom
+p271
+asVSpeed
+p272
+(lp273
+V6 squares
+p274
+asVVision
+p275
+(lp276
+VNormal
+p277
+asVSize
+p278
+(lp279
+VMedium
+p280
+assVGithyanki
+p281
+(dp282
+VSkill Bonuses
+p283
+(lp284
+V+2 History
+p285
+asVLanguages
+p286
+(lp287
+VCommon, Deep Speech
+p288
+asVAbility Scores
+p289
+(lp290
+V+2 Constitution, +2 Intelligence
+p291
+asVSpeed
+p292
+(lp293
+V6 squares
+p294
+asVVision
+p295
+(lp296
+VNormal
+p297
+asVSize
+p298
+(lp299
+VMedium
+p300
+assVGoblin
+p301
+(dp302
+VSkill Bonuses
+p303
+(lp304
+V+2 Stealth, +2 Thievery
+p305
+asVLanguages
+p306
+(lp307
+VCommon, Goblin
+p308
+asVAbility Scores
+p309
+(lp310
+V+2 Charisma, +2 Dexterity
+p311
+asVSpeed
+p312
+(lp313
+V6 squares
+p314
+asVVision
+p315
+(lp316
+VLow-light
+p317
+asVSize
+p318
+(lp319
+VSmall
+p320
+assVOrc
+p321
+(dp322
+VSkill Bonuses
+p323
+(lp324
+sVLanguages
+p325
+(lp326
+VCommon, Giant
+p327
+asVAbility Scores
+p328
+(lp329
+V+2 Constitution, +2 Strength
+p330
+asVSpeed
+p331
+(lp332
+V6 squares
+p333
+asVVision
+p334
+(lp335
+VLow-light
+p336
+asVSize
+p337
+(lp338
+VMedium
+p339
+assVBullywug
+p340
+(dp341
+VSkill Bonuses
+p342
+(lp343
+V+2 Athletics
+p344
+asVLanguages
+p345
+(lp346
+VCommon, Primordial
+p347
+asVAbility Scores
+p348
+(lp349
+V+2 Constitution, +2 Dexterity
+p350
+asVSpeed
+p351
+(lp352
+V6 squares (swamp walk)
+p353
+asVVision
+p354
+(lp355
+VNormal
+p356
+asVSize
+p357
+(lp358
+VMedium
+p359
+assVDeva
+p360
+(dp361
+VSkill Bonuses
+p362
+(lp363
+V+2 History, +2 Religion
+p364
+asVLanguages
+p365
+(lp366
+VCommon, choice of two others
+p367
+asVAbility Scores
+p368
+(lp369
+V+2 Intelligence, +2 Wisdom
+p370
+asVSpeed
+p371
+(lp372
+V6 squares
+p373
+asVVision
+p374
+(lp375
+VNormal
+p376
+asVSize
+p377
+(lp378
+VMedium
+p379
+assVHalfling
+p380
+(dp381
+VSkill Bonuses
+p382
+(lp383
+V+2 Acrobatics, +2 Thievery
+p384
+asVLanguages
+p385
+(lp386
+VCommon, choice of one other
+p387
+asVAbility Scores
+p388
+(lp389
+V+2 Charisma, +2 Dexterity
+p390
+asVSpeed
+p391
+(lp392
+V6 squares
+p393
+asVVision
+p394
+(lp395
+VNormal
+p396
+asVSize
+p397
+(lp398
+VSmall
+p399
+assVGnome
+p400
+(dp401
+VSkill Bonuses
+p402
+(lp403
+V+2 Arcana, +2 Stealth
+p404
+asVLanguages
+p405
+(lp406
+VCommon, Elven
+p407
+asVAbility Scores
+p408
+(lp409
+V+2 Charisma, +2 Intelligence
+p410
+asVSpeed
+p411
+(lp412
+V5 squares
+p413
+asVVision
+p414
+(lp415
+VLow-light
+p416
+asVSize
+p417
+(lp418
+VSmall
+p419
+assVBugbear
+p420
+(dp421
+VSkill Bonuses
+p422
+(lp423
+V+2 Intimidate, +2 Stealth
+p424
+asVLanguages
+p425
+(lp426
+VCommon, Goblin
+p427
+asVAbility Scores
+p428
+(lp429
+V+2 Dexterity, +2 Strength
+p430
+asVSpeed
+p431
+(lp432
+V6 squares
+p433
+asVVision
+p434
+(lp435
+VLow-light
+p436
+asVSize
+p437
+(lp438
+VMedium
+p439
+assVLongtooth Shifter
+p440
+(dp441
+VSkill Bonuses
+p442
+(lp443
+V+2 Athletics, +2 Endurance
+p444
+asVLanguages
+p445
+(lp446
+VCommon, choice of one other
+p447
+asVAbility Scores
+p448
+(lp449
+V+2 Strength, +2 Wisdom
+p450
+asVSpeed
+p451
+(lp452
+V6 squares
+p453
+asVVision
+p454
+(lp455
+VLow-light
+p456
+asVSize
+p457
+(lp458
+VMedium
+p459
+assVRevenant
+p460
+(dp461
+VSkill Bonuses
+p462
+(lp463
+V+2 Endurance, +2 Intimidate
+p464
+asVLanguages
+p465
+(lp466
+VCommon, choice of one other
+p467
+asVAbility Scores
+p468
+(lp469
+V+2 Constitution, +2 Dexterity
+p470
+asVSpeed
+p471
+(lp472
+V6 squares
+p473
+asVVision
+p474
+(lp475
+VLow-light vision
+p476
+asVSize
+p477
+(lp478
+VMedium
+p479
+assVShadar-kai
+p480
+(dp481
+VSkill Bonuses
+p482
+(lp483
+V+2 Acrobatics, +2 Stealth
+p484
+asVLanguages
+p485
+(lp486
+VCommon, choice of one other
+p487
+asVAbility Scores
+p488
+(lp489
+V+2 Dexterity, +2 Intelligence
+p490
+asVSpeed
+p491
+(lp492
+V6 squares
+p493
+asVVision
+p494
+(lp495
+VLow-light
+p496
+asVSize
+p497
+(lp498
+VMedium
+p499
+assVDrow
+p500
+(dp501
+VSkill Bonuses
+p502
+(lp503
+V+2 Intimidate, +2 Stealth
+p504
+asVLanguages
+p505
+(lp506
+VCommon, Elven
+p507
+asVAbility Scores
+p508
+(lp509
+V+2 Charisma, +2 Dexterity
+p510
+asVSpeed
+p511
+(lp512
+V6 squares
+p513
+asVVision
+p514
+(lp515
+VDarkvision
+p516
+asVSize
+p517
+(lp518
+VMedium
+p519
+assVEladrin
+p520
+(dp521
+VSkill Bonuses
+p522
+(lp523
+V+2 Arcana, +2 History
+p524
+asVLanguages
+p525
+(lp526
+VCommon, Elven
+p527
+asVAbility Scores
+p528
+(lp529
+V+2 Dexterity, +2 Intelligence
+p530
+asVSpeed
+p531
+(lp532
+V6 squares
+p533
+asVVision
+p534
+(lp535
+VLow-light
+p536
+asVSize
+p537
+(lp538
+VMedium
+p539
+assVTiefling
+p540
+(dp541
+VSkill Bonuses
+p542
+(lp543
+V+2 Bluff, +2 Stealth
+p544
+asVLanguages
+p545
+(lp546
+VCommon, choice of one other
+p547
+asVAbility Scores
+p548
+(lp549
+V+2 Charisma, +2 Intelligence
+p550
+asVSpeed
+p551
+(lp552
+V6 squares
+p553
+asVVision
+p554
+(lp555
+VLow-light
+p556
+asVSize
+p557
+(lp558
+VMedium
+p559
+assVDragonborn
+p560
+(dp561
+VSkill Bonuses
+p562
+(lp563
+V+2 History, +2 Intimidate
+p564
+asVLanguages
+p565
+(lp566
+VCommon, Draconic
+p567
+asVAbility Scores
+p568
+(lp569
+V+2 Charisma, +2 Strength
+p570
+asVSpeed
+p571
+(lp572
+V6 squares
+p573
+asVVision
+p574
+(lp575
+VNormal
+p576
+asVSize
+p577
+(lp578
+VMedium
+p579
+assVWilden
+p580
+(dp581
+VSkill Bonuses
+p582
+(lp583
+V+2 Nature, +2 Stealth
+p584
+asVLanguages
+p585
+(lp586
+VCommon, Elven
+p587
+asVAbility Scores
+p588
+(lp589
+V+2 Wisdom, +2 Constitution or +2 Dexterity
+p590
+asVSpeed
+p591
+(lp592
+V6 squares
+p593
+asVVision
+p594
+(lp595
+VLow-light
+p596
+asVSize
+p597
+(lp598
+VMedium
+p599
+assVChangeling
+p600
+(dp601
+VSkill Bonuses
+p602
+(lp603
+V+2 Bluff, +2 Insight
+p604
+asVLanguages
+p605
+(lp606
+VCommon
+p607
+asVAbility Scores
+p608
+(lp609
+V+2 Charisma, +2 Dexterity or +2 Intelligence
+p610
+asVSpeed
+p611
+(lp612
+V6 squares
+p613
+asVVision
+p614
+(lp615
+VNormal
+p616
+asVSize
+p617
+(lp618
+VMedium
+p619
+assVGithzerai
+p620
+(dp621
+VSkill Bonuses
+p622
+(lp623
+V+2 Acrobatics, +2 Athletics
+p624
+asVLanguages
+p625
+(lp626
+VCommon, Deep Speech
+p627
+asVAbility Scores
+p628
+(lp629
+V+2 Wisdom, +2 Dexterity or +2 Intelligence
+p630
+asVSpeed
+p631
+(lp632
+V6 squares
+p633
+asVVision
+p634
+(lp635
+VNormal
+p636
+asVSize
+p637
+(lp638
+VMedium
+p639
+assVHuman
+p640
+(dp641
+VSkill Bonuses
+p642
+(lp643
+sVLanguages
+p644
+(lp645
+VCommon, choice of one other
+p646
+asVAbility Scores
+p647
+(lp648
+V+2 to one ability score of your choice
+p649
+asVSpeed
+p650
+(lp651
+V6 squares
+p652
+asVVision
+p653
+(lp654
+VNormal
+p655
+asVSize
+p656
+(lp657
+VMedium
+p658
+assVKobold
+p659
+(dp660
+VSkill Bonuses
+p661
+(lp662
+V+2 Stealth, +2 Thievery
+p663
+asVLanguages
+p664
+(lp665
+VCommon, Draconic
+p666
+asVAbility Scores
+p667
+(lp668
+V+2 Constitution, +2 Dexterity
+p669
+asVSpeed
+p670
+(lp671
+V6 squares
+p672
+asVVision
+p673
+(lp674
+VNormal
+p675
+asVSize
+p676
+(lp677
+VSmall
+p678
+assVGoliath
+p679
+(dp680
+VSkill Bonuses
+p681
+(lp682
+V+2 Athletics, +2 Nature
+p683
+asVLanguages
+p684
+(lp685
+VCommon, either Dwarven or Giant
+p686
+asVAbility Scores
+p687
+(lp688
+V+2 Constitution, +2 Strength
+p689
+asVSpeed
+p690
+(lp691
+V6 squares
+p692
+asVVision
+p693
+(lp694
+VNormal
+p695
+asVSize
+p696
+(lp697
+VMedium
+p698
+assVMinotaur
+p699
+(dp700
+VSkill Bonuses
+p701
+(lp702
+V+2 Nature, +2 Perception
+p703
+asVLanguages
+p704
+(lp705
+VCommon, choice of one other
+p706
+asVAbility Scores
+p707
+(lp708
+V+2 Strength, +2 Constitution or +2 Wisdom
+p709
+asVSpeed
+p710
+(lp711
+V6 squares
+p712
+asVVision
+p713
+(lp714
+VNormal
+p715
+asVSize
+p716
+(lp717
+VMedium
+p718
+ass.
