@@ -3,33 +3,33 @@ a dynamic Character Builder:
 
 $ Ghetto_Chara_Builder
 
-      Classes              Key Ablities
+      Classes              Role
 ------------------------------------------------------------
-1   : Ardent               Charisma, Constitution, Wisdom
-2   : Artificer            Intelligence, Constitution, Wisdom
-3   : Assassin             Dexterity, Charisma, Constitution
-4   : Avenger              Wisdom, Dexterity, Intelligence
-5   : Barbarian            Strength, Constitution, Charisma
-6   : Bard                 Charisma, Intelligence, Constitution
-7   : Battlemind           Constitution, Wisdom, Charisma
-8   : Cleric               Wisdom, Strength, Charisma
-9   : Druid                Wisdom, Dexterity, Constitution
-10  : Fighter              Strength, Dexterity, Wisdom, Constitution
-11  : Invoker              Wisdom, Constitution, Intelligence
-12  : Monk                 Dexterity, Strength, Wisdom
-13  : Paladin              Strength, Charisma, Wisdom
-14  : Psion                Intelligence, Charisma, Wisdom
-15  : Ranger               Strength, Dexterity, Wisdom
-16  : Rogue                Dexterity, Strength, Charisma
-17  : Runepriest           Strength, Constitution, Wisdom
-18  : Seeker               Wisdom, Strength, Dexterity
-19  : Shaman               Wisdom, Constitution, Intelligence
-20  : Sorcerer             Charisma, Dexterity, Strength
-21  : Swordmage            Intelligence, Strength, Constitution
-22  : Warden               Strength, Constitution, Wisdom
-23  : Warlock              Charisma, Constitution, Intelligence
-24  : Warlord              Strength, Intelligence, Charisma
-25  : Wizard               Intelligence, Wisdom, Dexterity
+1   : Ardent               Leader
+2   : Artificer            Leader
+3   : Assassin             Striker
+4   : Avenger              Striker
+5   : Barbarian            Striker
+6   : Bard                 Leader
+7   : Battlemind           Defender
+8   : Cleric               Leader
+9   : Druid                Controller
+10  : Fighter              Defender
+11  : Invoker              Controller
+12  : Monk                 Striker
+13  : Paladin              Defender
+14  : Psion                Controller
+15  : Ranger               Striker
+16  : Rogue                Striker
+17  : Runepriest           Leader
+18  : Seeker               Controller
+19  : Shaman               Leader
+20  : Sorcerer             Striker
+21  : Swordmage            Defender
+22  : Warden               Defender
+23  : Warlock              Striker
+24  : Warlord              Leader
+25  : Wizard               Controller
 ------------------------------------------------------------
 
 

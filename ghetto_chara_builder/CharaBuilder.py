@@ -2,6 +2,7 @@
 import pickle
 import textwrap
 import os, sys
+import re
 
 path = os.path.split(os.path.abspath(__file__))[0]
 
@@ -24,11 +25,12 @@ def main():
         os.system('clear')
         count = 1
         class_temp = {}
-        print '%-3s   %-20s %s' % ('', 'Classes', 'Key Ablities')
+        print '%-3s   %-20s %s' % ('', 'Classes', 'Role')
         print '-'*width
         for c in sorted(classes):
             class_temp[count] = c
-            print '%-3s : %-20s %s' % (count, c, classes[c]['Key Abilities'][0])
+            role = re.compile('^([A-Za-z]*)\. ').findall(classes[c]['Role'][0])[0]
+            print '%-3s : %-20s %s' % (count, c, role)
             count += 1
         print '-'*width
         print '\n'
